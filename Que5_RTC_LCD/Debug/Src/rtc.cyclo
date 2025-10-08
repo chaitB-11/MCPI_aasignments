@@ -1,0 +1,7 @@
+../Src/rtc.c:9:10:Bin2BCD	1
+../Src/rtc.c:16:10:BCD2Bin	1
+../Src/rtc.c:23:6:RtcInit	3
+../Src/rtc.c:49:6:RtcSetDate	1
+../Src/rtc.c:62:6:RtcSetTime	1
+../Src/rtc.c:72:6:RtcGetDate	1
+../Src/rtc.c:83:6:RtcGetTime	1
